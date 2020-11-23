@@ -17,7 +17,9 @@ Please make sure to update tests as appropriate.
 
 ## References:
 1.https://github.com/jingtt/varclushi
+
 2.https://zhuanlan.zhihu.com/p/82180176
+
 3.https://support.sas.com/resources/papers/proceedings/proceedings/sugi26/p261-26.pdf
 
 ## License

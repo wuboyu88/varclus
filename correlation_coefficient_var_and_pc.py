@@ -25,7 +25,7 @@ x = demo_df['fixed acidity'].values
 # 第一个主成分
 y = princomps[:, 0]
 
-# 变量fixed acidity与第一个主成分直接的相关系数
+# 变量fixed acidity与第一个主成分之间的相关系数
 corr1 = np.corrcoef(x, y)[0][1]
 
 # /*代码中计算变量与第一个主成分的相关系数*/
